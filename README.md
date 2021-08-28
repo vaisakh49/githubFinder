@@ -1,6 +1,7 @@
-#gitthubFinder
+# gitthubFinder
 A application that find and shows details in the github profiles. The app build with react js.
 </p>
+<a href='https://vaisakh49.github.io/githubFinder/'>Go to site</a>
 <h2>Screenshots</H2>
 <div align='center'>
 <h3>Home Search</h3>
