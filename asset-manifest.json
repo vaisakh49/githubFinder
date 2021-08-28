@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://vaisakh49.github.io/githubFinder/static/css/main.f4bac585.chunk.css",
-    "main.js": "https://vaisakh49.github.io/githubFinder/static/js/main.c08c28e6.chunk.js",
-    "main.js.map": "https://vaisakh49.github.io/githubFinder/static/js/main.c08c28e6.chunk.js.map",
+    "main.js": "https://vaisakh49.github.io/githubFinder/static/js/main.95c19bac.chunk.js",
+    "main.js.map": "https://vaisakh49.github.io/githubFinder/static/js/main.95c19bac.chunk.js.map",
     "runtime-main.js": "https://vaisakh49.github.io/githubFinder/static/js/runtime-main.f8c7f727.js",
     "runtime-main.js.map": "https://vaisakh49.github.io/githubFinder/static/js/runtime-main.f8c7f727.js.map",
     "static/js/2.2476a6fd.chunk.js": "https://vaisakh49.github.io/githubFinder/static/js/2.2476a6fd.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f8c7f727.js",
     "static/js/2.2476a6fd.chunk.js",
     "static/css/main.f4bac585.chunk.css",
-    "static/js/main.c08c28e6.chunk.js"
+    "static/js/main.95c19bac.chunk.js"
   ]
 }
