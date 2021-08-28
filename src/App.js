@@ -16,17 +16,17 @@ const App = () => {
   return (
     <GithubState>
       <AlertState>
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
           <div className='App'>
             <Navbar />
             <div className='container'>
               <Alert alert1={alert} />
               <Switch>
                 {' '}
-                <Route path='/' component={Home} />
-                <Route path='/about' component={About} />
-                <Route path='/users/:login' component={User} />
-                {/* <Route component={Notfound} /> */}
+                <Route exact path='/' component={Home} />
+                <Route exact path='/about' component={About} />
+                <Route exact path='/users/:login' component={User} />
+                <Route component={Home} />
               </Switch>
             </div>
           </div>
